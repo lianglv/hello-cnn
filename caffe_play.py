@@ -1,7 +1,3 @@
-# -*- coding:utf-8 -*-
-# Created Time: 六 12/30 13:49:21 2017
-# Author: Taihong Xiao <xiaotaihong@126.com>
-
 import numpy as np
 import time
 import os, glob, shutil
